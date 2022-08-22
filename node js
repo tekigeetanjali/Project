@@ -1,0 +1,44 @@
+const array = [
+    {
+       "orderId":2483,
+       "paymentId":"pay_JgGn9FUk5lzqX2",
+       "total":1436,
+       "daIdFk":"3"
+     },
+    {
+       "orderId":2485,
+       "paymentId":"pay_JgS2a5AEEpT1m6",
+       "total":262,
+       "daIdFk":"2"
+     },
+    {
+       "orderId":2486,
+       "paymentId":"COD",
+       "total":369,
+       "daIdFk":"2"
+     },
+     {
+        "orderId":2487,
+        "paymentId":"COD",
+        "total":578,
+        "daIdFk":"2"
+     },
+     {  "orderId":2488,
+        "paymentId":"pay_JgUcM3ti7McSOc",
+        "total":664,
+        "daIdFk":"2"
+     },
+     {
+        "orderId":2489,
+        "paymentId":"UPI",
+        "total":206,
+        "daIdFk":"2"
+     },
+     {
+        "orderId":2490,
+        "paymentId":"UPI",
+        "total":103,
+        "daIdFk":"2"
+     }]         
+     console.log(array[0].orderId,array[1].orderId,array[2].orderId,array[3].orderId,array[4].orderId,array[5].orderId,array[6].orderId)
+    
